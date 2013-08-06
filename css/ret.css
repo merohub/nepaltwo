@@ -10,8 +10,8 @@
 	
 .page-sidebar{	background-image:url(../images/misc/menu-bg.png);	-webkit-background-size:75px 75px;}
 
-.hide-sidebar{	background-image:url(../images/misc/menu-item/deploy-menu@2x.png); -webkit-background-size:18px 12px;}
-.show-sidebar{	background-image:url(../images/misc/menu-item/deploy-menu@2x.png); -webkit-background-size:18px 12px;}
+.hide-sidebar{	background-image:url(../images/drawericon.png); -webkit-background-size:48px 48px;}
+.show-sidebar{	background-image:url(../images/drawericon.png); -webkit-background-size:48px 48px;}
 .header-mail{	background-image:url(../images/misc/menu-item/mail@2x.png); -webkit-background-size:18px 12px;}	
 
 .icon-heading{	background-image:url(../images/ui/minus@2x.png); 			-webkit-background-size:12px 12px;}
